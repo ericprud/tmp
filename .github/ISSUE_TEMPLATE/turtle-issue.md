@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Turtle filename**
-Any FHIR Turtle example that exhibits this issue, e.g. observation-example-bloodpressure.ttl
+Any FHIR Turtle example that exhibits this issue, e.g. [observation-example-bloodpressure.ttl](https://build.fhir.org/observation-example-bloodpressure.ttl.html)
 
 **FHIR Resource**
 URL of corresponding attribute on build.fhir.org, e.g. https://build.fhir.org/observation.html#a26.b
