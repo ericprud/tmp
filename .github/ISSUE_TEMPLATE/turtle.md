@@ -19,6 +19,6 @@ URL of corresponding attribute on build.fhir.org, e.g. https://build.fhir.org/ob
 **Description**
 What the Turtle should be. Can express as diff à la:
 ``` diff
--  fhir:value [ a fhir:unsingedInt
+- fhir:value [ a fhir:unsingedInt
 + fhir:value [ a fhir:unsignedInt
 ```
