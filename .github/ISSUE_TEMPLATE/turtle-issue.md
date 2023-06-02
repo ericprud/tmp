@@ -14,7 +14,7 @@ Any FHIR Turtle example that exhibits this issue, e.g. [observation-example-bloo
 URL of corresponding attribute on build.fhir.org, e.g. https://build.fhir.org/observation.html#a26.b
 
 **ShEx shape**
-Name of corresponding Shape Expression and predicate in ShapePath form, e.g. `@<Observation.component>~fhir:value`.
+Name of corresponding Shape Expression and predicate in ShapePath form, e.g. [`@<Observation.component>~fhir:value`](https://build.fhir.org/observation.shex.html)
 
 **Description**
 What the Turtle should be. Can express as diff à la:
