@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **ShEx shape**
-Name of Shape Expression and predicate in ShapePath form, e.g. `@<Observation.component>~fhir:value`.
+Name of Shape Expression and predicate in ShapePath form, e.g. [`@<Observation.component>~fhir:value`](https://build.fhir.org/observation.shex.html)
 
 **FHIR Resource**
 URL of corresponding attribute on build.fhir.org, e.g. https://build.fhir.org/observation.html#a26.b
