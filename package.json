@@ -1,0 +1,12 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo all good here"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
