@@ -1,5 +1,5 @@
 ---
-name: ShEx issue
+name: ShEx
 about: Bug report for FHIR specification's ShEx schema
 title: ''
 labels: ShEx
